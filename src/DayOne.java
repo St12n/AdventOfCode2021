@@ -26,6 +26,26 @@ public class DayOne {
             }
         }
         System.out.println(amountIncreased);
+
+        int amountSumIncreased = 0;
+        int currentSum = 0;
+        int previousSum = 0;
+
+        for (int i = 0; i < 3; i++) {
+            previousSum += dataInput.get(i);
+        }
+        System.out.println(" first sum is " + previousSum);
+
+        for (int i = 3; i < dataInput.size() ; i++) {
+            currentSum = previousSum + dataInput.get(i) - dataInput.get(i - 3);
+            System.out.println("sum " + (i - 1) + " is " + currentSum);
+            if (currentSum > previousSum) {
+                amountSumIncreased++;
+            }
+            previousSum = currentSum;
+        }
+        System.out.println(amountSumIncreased);
+
     }
 
 

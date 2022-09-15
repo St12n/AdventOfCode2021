@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f88616b-c177-495e-a5a5-da4ed84c484e" name="Changes" comment="First part of the first advent of code exercise&#10;- got the path&#10;- got the length of the 'array'">
+    <list default="true" id="3f88616b-c177-495e-a5a5-da4ed84c484e" name="Changes" comment="First part of the first advent of code exercise&#10;- got the path&#10;- got arraylist&#10;- got answer">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DayOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DayOne.java" afterDir="false" />
     </list>
@@ -69,7 +69,8 @@
       <updated>1663056955763</updated>
       <workItem from="1663056957229" duration="3428000" />
       <workItem from="1663139585121" duration="41000" />
-      <workItem from="1663140911454" duration="1538000" />
+      <workItem from="1663140911454" duration="1713000" />
+      <workItem from="1663233707114" duration="5306000" />
     </task>
     <task id="LOCAL-00001" summary="First part of the first advent of code exercise&#10;- got the path&#10;- got the length of the 'array'">
       <created>1663058183289</created>
@@ -78,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663058183289</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First part of the first advent of code exercise&#10;- got the path&#10;- got arraylist&#10;- got answer">
+      <created>1663167898470</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663167898470</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +105,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First part of the first advent of code exercise&#10;- got the path&#10;- got the length of the 'array'" />
-    <option name="LAST_COMMIT_MESSAGE" value="First part of the first advent of code exercise&#10;- got the path&#10;- got the length of the 'array'" />
+    <MESSAGE value="First part of the first advent of code exercise&#10;- got the path&#10;- got arraylist&#10;- got answer" />
+    <option name="LAST_COMMIT_MESSAGE" value="First part of the first advent of code exercise&#10;- got the path&#10;- got arraylist&#10;- got answer" />
   </component>
 </project>
